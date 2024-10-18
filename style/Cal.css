@@ -9,32 +9,6 @@
 }
 
 
-/* TOP BORDER */
-.borderTop{
-    background-color: #252422;
-    text-align: center;
-}
-.borderTop :any-link{
-    color: #fffcf2;
-    text-decoration: none;
-}
-.borderTop :any-link:hover{
-    color: cadetblue;
-}
-.borderTop h1{
-    padding: 5px;
-    color: #fffcf2;
-}
-#border{
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-.bB{
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-
 /* calculator */
 #result{
     text-align: right;
@@ -101,19 +75,6 @@
     }
 }
 
-
-/* BOTTOM BORDER */
-.borderBottom{
-    background-color: #252422;
-}
-.borderBottom :any-link{
-    color: #fffcf2;
-    text-align: center;
-    text-decoration: none;
-}
-.borderBottom :any-link:hover{
-    color: cadetblue;
-}
 
 
 /* rest of buttons */
