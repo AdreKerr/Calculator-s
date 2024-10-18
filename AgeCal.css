@@ -1,0 +1,108 @@
+/* everything */
+.big{
+    background-color: hsl(34, 87%, 49%);
+    text-align: center;
+}
+
+/* TOP BORDER */
+.borderTop{
+    background-color: #252422;
+    text-align: center;
+}
+.borderTop :any-link{
+    color: #fffcf2;
+    text-decoration: none;
+}
+.borderTop :any-link:hover{
+    color: cadetblue;
+}
+.borderTop h1{
+    padding: 5px;
+    color: #fffcf2;
+}
+#border{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* tilte only */
+#title{
+    background-color: hsl(182, 25%, 50%);
+    padding: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 2px hsl(185, 25%, 40%);
+    color: white;
+    
+}
+
+/* The box to enter age */
+.box{
+    color: white;
+    background-color: hsl(182, 25%, 50%);
+    text-align: center;
+    padding: 10px;
+    box-shadow: 5px 5px 2px hsl(185, 25%, 40%);
+    margin-bottom: 100px;
+}
+/* date */
+#Bday{
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 61%);
+    color: white;
+}
+/* submit button */
+#submit{
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 61%);
+    color: white;
+}
+/* clear */
+#clear{
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 61%);
+    color: white;
+}
+/* age */
+#age{
+    background-color: hsl(182, 25%, 50%);
+    text-align: center;
+    box-shadow: 5px 5px 2px hsl(185, 25%, 40%);
+    margin-bottom: 100px;
+    color: white;
+}
+#result{
+    list-style-type: none;
+}
+#result #dis{
+    list-style-type: none;
+    padding: 10px;
+}
+
+
+/* BOTTOM BORDER */
+.borderBottom{
+    background-color: #252422;
+}
+.borderBottom :any-link{
+    color: #fffcf2;
+    text-align: center;
+    text-decoration: none;
+}
+.borderBottom :any-link:hover{
+    color: cadetblue;
+}
+.bB{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* space */
+.space{
+    height: 100px;
+}
+.space1{
+    height: 200px;
+}
